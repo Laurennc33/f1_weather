@@ -51,7 +51,7 @@ To run this project locally, follow the instructions below.
 ### **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/f1_weather.git)
+   git clone https://github.com/yourusername/f1_weather.git
    cd f1_weather
    ```
 
