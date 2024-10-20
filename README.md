@@ -51,8 +51,8 @@ To run this project locally, follow the instructions below.
 ### **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/f1-race-strategy-analysis.git
-   cd f1-race-strategy-analysis
+   git clone https://github.com/yourusername/f1_weather.git)
+   cd f1_weather
    ```
 
 2. Install required packages:
